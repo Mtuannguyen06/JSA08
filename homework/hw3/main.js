@@ -2,7 +2,7 @@ const rows = (count + 1)/2;
 for (let index = 0; index < rows; index++) {
    let str = '';
    for (let index2 = 0; index2 < index * 2 + 1; index2++) {
-      const element = array[index2];
+      str = str + '1'
       
    }
    
