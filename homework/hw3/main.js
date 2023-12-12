@@ -9,19 +9,19 @@
 // }
 
 
-// var b = [9, 7, 9, 0, 7, 8, 387, 123, 456];
+var b = [9, 7, 9, 0, 7, 8, 387, 123, 456];
 
-// var c = b.filter(function (item) {
-//    return (item % 2 == 0);
-// });
+var c = b.filter(function (item) {
+   return (item % 2 == 0);
+});
 
-// console.log(c);
+console.log(c);
 
-let result = "";
-const resultArr = [];
-alert.result = prompt('What is your name?');
-resultArr.push(result);
-alert.result = prompt('What is your favourite');
-resultArr.push(result);
+// let result = "";
+// const resultArr = [];
+// alert.result = prompt('What is your name?');
+// resultArr.push(result);
+// alert.result = prompt('What is your favourite');
+// resultArr.push(result);
 
-console.log(resultArr)
+// console.log(resultArr)
